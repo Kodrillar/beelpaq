@@ -1,4 +1,4 @@
-# beelpaq
+# beelpaq (In development)
 
 A fast and secure mobile app for seamless bill payments.
 
